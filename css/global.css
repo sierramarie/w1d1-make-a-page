@@ -1,5 +1,11 @@
 body {
-    background: #7B8CDE;
-    color: #fff;
+    background: #DDDDDD;
+    color: #1C1C1C;
     text-align: center;
+}
+h2 {
+    color: #F0544F;
+}
+h3 {
+    color: #C95D63;
 }
